@@ -1,0 +1,7 @@
+kind: Pod
+api-Wersion: v1
+metadata:
+  name: memached
+spec:
+  containers:
+    - image: memcached123)
